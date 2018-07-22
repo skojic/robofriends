@@ -4,11 +4,10 @@ import './index.css';
 import App from'./App';
 import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
-import { robots } from './robots';
 
 ReactDOM.render(
 				<div>
-					<CardList robots={robots}/>
+					<App/>
 				</div>
 	, document.getElementById('root'));
 registerServiceWorker();
