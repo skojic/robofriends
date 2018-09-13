@@ -1,0 +1,16 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+h1 {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #5d1c78;
+}
+h2, p {
+  font-family: 'Shadows Into Light', cursive;
+}
