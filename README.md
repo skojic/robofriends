@@ -44,10 +44,12 @@ This is not supported project anymore, it is built purely for practice and fun.
 
 * **Srdjan Kojic**
 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/skojic/robofriends.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fskojic%2Frobofriends)
+
 ## License
 
 This project is licensed under the MIT License - see the 
 [![GitHub license](https://img.shields.io/github/license/skojic/robofriends.svg)](https://github.com/skojic/robofriends)
-(LICENSE.md) file for details
+file for details
 
 
