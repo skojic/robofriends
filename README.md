@@ -1,4 +1,7 @@
 # Catfriends 
+
+![Catfriends](catfriends.png)
+
 [![GitHub forks](https://img.shields.io/github/forks/skojic/robofriends.svg)](https://github.com/skojic/robofriends/network)
 
 [![GitHub stars](https://img.shields.io/github/stars/skojic/robofriends.svg)](https://github.com/skojic/robofriends/stargazers)
