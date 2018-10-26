@@ -51,8 +51,7 @@ This is not supported project anymore, it is built purely for practice and fun.
 
 ## License
 
-This project is licensed under the MIT License - see the 
+This project is licensed under  
 [![GitHub license](https://img.shields.io/github/license/skojic/robofriends.svg)](https://github.com/skojic/robofriends)
-file for details
 
 
