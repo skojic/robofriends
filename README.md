@@ -31,7 +31,7 @@ type in the name of the cat or robot to filter out the one you like.
 
 ## Deployment
 
-Application deployed using heroku (https://dashboard.heroku.com)
+Application deployed using Github Pages
 
 ## Built With
 
